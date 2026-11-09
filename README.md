@@ -15,7 +15,7 @@ Instead of hardcoding Wi-Fi credentials into the source code, the ESP32
 can create its own Access Point (AP), allowing users to configure the
 wireless network through a captive portal.
 
-![Project photo](ESP32-Wi-Fi-OLED-Web-Server.jpg)
+![Project photo](ESP32-Wi-Fi-OLED-Web-Server.jpeg)
 ![Project photo](ESP32-Wi-Fi-OLED-Web-Server-Mobile.jpg)
 
 
