@@ -16,7 +16,7 @@ can create its own Access Point (AP), allowing users to configure the
 wireless network through a captive portal.
 
 ![Project photo](ESP32-Wi-Fi-OLED-Web-Server.png)
-![Project photo](ESP32-Wi-Fi-OLED-Web-Server-Mobile.jpg)
+![Project photo](ESP32-Wi-Fi-OLED-Web-Server-Mobile.png)
 
 
 ### Key Features
