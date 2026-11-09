@@ -401,38 +401,9 @@ be able to submit text to the display.
                                       on the OLED.
   -----------------------------------------------------------------------
 
-## 14. Future Enhancements
 
-Potential improvements include:
 
--   Password protection for the web interface.
--   HTTPS support.
--   HTTP POST for message submission.
--   Input validation and message-length limits.
--   A dedicated Wi-Fi reset button.
--   Text wrapping and scrolling for long messages.
--   WebSocket support for live updates.
--   MQTT integration for IoT messaging.
--   Support for multiple clients.
--   Improved Wi-Fi reconnection handling.
-
-## 15. Project Summary
-
-This project demonstrates a practical ESP32 IoT implementation
-combining:
-
--   Embedded systems programming.
--   Wi-Fi configuration and connectivity.
--   HTTP communication.
--   Web-based user interaction.
--   I2C peripheral communication.
--   OLED display management.
-
-It provides a foundation for developing more advanced IoT applications
-where embedded devices can be controlled and monitored through a web
-interface.
-
-## 16. License
+## 14. License
 
 This project is intended for educational and experimental purposes. You
 may adapt and extend the implementation for your own IoT projects. Add a
